@@ -80,4 +80,4 @@ user_groups:
 - QCBS
 ---
 
-I am a PhD student in Biological Sciences at the Quantitative and Computational Ecology Lab (Université de Montréal). I am passionate about the modeling of complex ecological systems such as food webs and other ecological networks. In my thesis, I predict the emerging structure of ecological networks in order to better understand the mechanisms underlying species interactions in a biological community. I mainly use Julia and R in my research.
+I am a PhD student in Biological Sciences at the Quantitative and Computational Ecology Lab of Timothée Poisot (Université de Montréal) and at the Integrative Ecology Lab of Dominique Gravel (Université de Sherbrooke). I am passionate about the modeling of complex ecological systems such as food webs and other ecological networks. In my thesis, I predict the emerging structure of ecological networks in order to better understand the mechanisms underlying species interactions in a biological community. I mainly use Julia and R in my research.
