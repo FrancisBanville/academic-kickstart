@@ -54,9 +54,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/FrancisBanville
-- icon: github
-  icon_pack: fab
-  link: https://github.com/FrancisBanville
+- icon: file
+  icon_pack: fas
+  link: files/cv.pdf
 
 # icon: google-scholar
 # icon_pack: ai
