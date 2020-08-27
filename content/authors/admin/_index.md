@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Francis Banville
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD student in Biological Sciences
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Université de Montréal
+  url: "https://bio.umontreal.ca/english/home/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include ecological networks, computational ecology, and machine learning
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Ecological networks
+- Computational ecology
+- Machine learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Biological Sciences
+    institution: Université de Montréal
+    year: 2019-
+  - course: MSc in Quantitative and Computational Biology
+    institution: Université de Montréal
+    year: 2018-19 (interrupted)
+  - course: BSc in Biological Sciences
+    institution: Université de Montréal
+    year: 2016-18
+  - course: BSc in Mathematics
+    institution: Université de Montréal
+    year: 2013-15 (interrupted)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +50,18 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/francisbanv
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/FrancisBanville
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
+
+# icon: google-scholar
+# icon_pack: ai
+# link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,10 +74,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- The Poisot lab
+- IVADO
+- BIOS2
+- QCBS
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD student in Biological Sciences at the Quantitative and Computational Ecology Lab (Université de Montréal). I am passionate about the modeling of complex ecological systems such as food webs and other ecological networks. In my thesis, I predict the emerging structure of ecological networks in order to better understand the mechanisms underlying species interactions in a biological community. I mainly use Julia and R in my research.
