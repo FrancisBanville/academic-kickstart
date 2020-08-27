@@ -56,7 +56,7 @@ social:
   link: https://github.com/FrancisBanville
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: static/files/cv.pdf
 
 # icon: google-scholar
 # icon_pack: ai
