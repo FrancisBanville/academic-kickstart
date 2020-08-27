@@ -113,7 +113,7 @@ directions = "Enter building B and take the elevator to office B-5439 on floor 5
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/francisbanv"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "live:francisbanville12"},
+  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "https://join.skype.com/invite/qcIyVNHYurrT"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
