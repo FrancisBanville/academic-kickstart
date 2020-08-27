@@ -19,7 +19,19 @@ subtitle = ""
   icon_pack = "fas"
   name = "Ecology"
   description = ""  
-  
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics"
+  description = ""  
+
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Machine learning"
+  description = ""  
+
 [[feature]]
   icon = "julia"
   icon_pack = "custom"
@@ -31,12 +43,6 @@ subtitle = ""
   icon_pack = "fab"
   name = "R"
   description = ""
-
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = ""  
 
 
 # Uncomment to use emoji icons.
