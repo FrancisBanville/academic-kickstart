@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: PhD in Biological Sciences
-    institution: Université de Montréal
+    institution: Université de Montréal / Université de Sherbrooke
     year: 2019-
   - course: MSc in Quantitative and Computational Biology
     institution: Université de Montréal
