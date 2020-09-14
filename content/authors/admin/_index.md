@@ -56,7 +56,7 @@ social:
   link: https://www.linkedin.com/in/francis-banville-890a91192/
 - icon: orcid
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Francis_Banville
+  link: http://orcid.org/0000-0001-9051-0597
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Francis_Banville
