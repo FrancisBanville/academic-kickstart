@@ -15,34 +15,40 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "kiwi-bird"
-  icon_pack = "fas"
-  name = "Ecology"
-  description = ""  
-
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = ""  
-
-[[feature]]
-  icon = "robot"
-  icon_pack = "fas"
-  name = "Machine learning"
-  description = ""  
-
-[[feature]]
   icon = "julia"
   icon_pack = "custom"
   name = "Julia"
-  description = ""
+  description = "80%"
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
+  icon = "R"
+  icon_pack = "custom"
   name = "R"
-  description = ""
+  description = "85%"  
+
+[[feature]]
+  icon = "git"
+  icon_pack = "custom"
+  name = "Git"
+  description = "90%"  
+
+[[feature]]
+  icon = "markdown"
+  icon_pack = "custom"
+  name = "LateX/Markdown"
+  description = "70%"
+
+[[feature]]
+  icon = "bash"
+  icon_pack = "custom"
+  name = "Bash"
+  description = "65%"  
+
+[[feature]]
+  icon = "arcgis"
+  icon_pack = "custom"
+  name = "ArcGIS"
+  description = "40%"
 
 
 # Uncomment to use emoji icons.
