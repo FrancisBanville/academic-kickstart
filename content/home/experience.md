@@ -18,27 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Data.Trek organizer"
-  company = "IVADO"
-  company_url = "https://ivado.ca/en/"
-  location = "Montreal"
-  date_start = "2019-11-01"
-  date_end = ""
-  description = "The Data.Trek is a challenge in which participants commit to 1 hour of coding everyday for 100 consecutive days in order to acquire new skills."
+  title = "Team Building"
+  company = "Satellite Report BV"
+  company_url = ""
+  location = "Den Haag, the Netherlands"
+  date_start = "2020-03-14"
+  date_end = "2020-09-01"
+  description = "team"
   Responsibilities include:
 
-  * Preparing the welcoming event
-  * Preparing and teaching lessons in Julia and R
-  * Support participants in their projects
-"""
+  * Analysing
+  * Modelling
+  * Deploying
+  """
 
 [[experience]]
-  title = "Research assistant"
-  company = "Université de Montréal"
+  title = "CEEMID"
+  company = ""
   company_url = ""
-  location = "Montreal"
-  date_start = "2018-05-01"
-  date_end = "2018-08-31"
-  description = """Data analysis of US lake profiles in 2007 and 2012."""
+  location = "Budapest -> Den Haag"
+  date_start = "2014-04-30"
+  date_end = "2020-03-14"
+  description = """An evolving project with more and more music industry stakeholders"""
 
 +++
