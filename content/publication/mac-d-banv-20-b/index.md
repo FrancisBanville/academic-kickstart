@@ -4,7 +4,7 @@
 title: "Revisiting the Links-Species Scaling Relationship in Food Webs"
 authors:
 - A. MacDonald
-- **F. Banville**
+- F. Banville
 - T. Poisot
 date: 2020-09-14T12:09:22-04:00
 doi: https://doi.org/10.1016/j.patter.2020.100079

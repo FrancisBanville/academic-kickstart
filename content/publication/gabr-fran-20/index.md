@@ -4,7 +4,7 @@
 title: "[Re] Chaos in a Three-Species Food Chain"
 authors:
 - G. Dansereau
-- **F. Banville**
+- F. Banville
 - E. Basque
 - A. MacDonald
 - T. Poisot
