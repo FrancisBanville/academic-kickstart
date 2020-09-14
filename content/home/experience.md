@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "BIOS fellow"
+  company = "BIOS2"
+  company_url = "http://bios2.usherbrooke.ca/bios2/"
+  location = "Montreal"
+  date_start = "2019-09-01"
+  date_end = ""
+  description = """The Computational Biodiversity Science and Services (BIOS²) training program provides opportunities to Canadian graduate students to gain professional experiences in quantitative ecology."""
+
+"""
+
+[[experience]]
   title = "Data.Trek organizer"
   company = "IVADO"
   company_url = "https://ivado.ca/en/"
@@ -25,7 +36,7 @@ date_format = "Jan 2006"
   date_start = "2019-11-01"
   date_end = ""
   description = """
-  The Data.Trek is a challenge in which participants commit to 1 hour of coding everyday for 100 consecutive days in order to acquire new skills. Responsibilities include:
+  The Data.Trek is a challenge in which participants commit to 1 hour of coding everyday for 100 consecutive days in order to acquire new skills. My responsibilities include:
 
   * Preparing the welcoming event
   * Preparing and teaching lessons in Julia and R
