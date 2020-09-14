@@ -26,8 +26,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = """The Computational Biodiversity Science and Services (BIOS²) training program provides opportunities to Canadian graduate students to gain professional experiences in quantitative ecology."""
 
-"""
-
 [[experience]]
   title = "Data.Trek organizer"
   company = "IVADO"
