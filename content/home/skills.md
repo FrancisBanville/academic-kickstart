@@ -21,32 +21,32 @@ subtitle = ""
   description = "80%"
 
 [[feature]]
-  icon = "R"
-  icon_pack = "custom"
+  icon = "r-project"
+  icon_pack = "fab"
   name = "R"
   description = "85%"  
 
 [[feature]]
-  icon = "git"
-  icon_pack = "custom"
+  icon = "git-square"
+  icon_pack = "fab"
   name = "Git"
   description = "90%"  
 
 [[feature]]
   icon = "markdown"
-  icon_pack = "custom"
+  icon_pack = "fab"
   name = "LateX/Markdown"
   description = "70%"
 
 [[feature]]
-  icon = "bash"
-  icon_pack = "custom"
-  name = "Bash"
+  icon = "linux"
+  icon_pack = "fab"
+  name = "bash"
   description = "65%"  
 
 [[feature]]
-  icon = "arcgis"
-  icon_pack = "custom"
+  icon = "globe-europe"
+  icon_pack = "fas"
   name = "ArcGIS"
   description = "40%"
 
