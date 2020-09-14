@@ -54,6 +54,18 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/FrancisBanville
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/francis-banville-890a91192/
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Francis_Banville
+- icon: orcid
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Francis_Banville
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.fr/citations?user=jqagMewAAAAJ&hl=fr&oi=ao
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
