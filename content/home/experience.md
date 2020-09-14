@@ -24,13 +24,7 @@ date_format = "Jan 2006"
   location = "Montreal"
   date_start = "2019-11-01"
   date_end = ""
-  description = """The Data.Trek is a challenge in which participants commit to 1 hour of coding everyday for 100 consecutive days in order to acquire new skills. It is inspired from the [100 days of code challenge](https://www.100daysofcode.com/)."""
-  Responsibilities include:
 
-  * Preparing the welcoming event
-  * Preparing and teaching lessons in Julia and R
-  * Support participants in their projects
-  """
 
 [[experience]]
   title = "Research assistant"
@@ -39,6 +33,5 @@ date_format = "Jan 2006"
   location = "Montreal"
   date_start = "2018-05-01"
   date_end = "2018-08-31"
-  description = """Data analysis of US lake profiles in 2007 and 2012."""
 
 +++
