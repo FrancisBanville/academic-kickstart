@@ -1,10 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Gabr Fran 20"
-authors: []
+title: "[Re] Chaos in a Three-Species Food Chain"
+authors:
+- G. Dansereau
+- **F. Banville**
+- E. Basque
+- A. MacDonald
+- T. Poisot
 date: 2020-09-14T12:08:56-04:00
-doi: ""
+doi: 10.5281/zenodo.4022518
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-09-14T12:08:56-04:00
@@ -13,7 +18,8 @@ publishDate: 2020-09-14T12:08:56-04:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types:
+- 2
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -22,9 +28,13 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Replication of the results of Hastings and Powell (1991), a classical paper in ecology describing the population dynamics of three interacting species."
 
-tags: []
+tags:
+- ReScience
+- chaos
+- population dynamics
+- food webs
 categories: []
 featured: false
 
@@ -36,8 +46,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
+url_pdf: https://zenodo.org/record/4022518/files/article.pdf
+url_code: https://github.com/BIO6032/2019_replication_HastingsPowell_1991/
 url_dataset:
 url_poster:
 url_project:
@@ -46,7 +56,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
