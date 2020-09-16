@@ -18,37 +18,37 @@ subtitle = ""
   icon = "julia"
   icon_pack = "custom"
   name = "Julia"
-  description = "80%"
+  description = ""
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "85%"  
+  description = ""  
 
 [[feature]]
   icon = "git-square"
   icon_pack = "fab"
   name = "Git"
-  description = "90%"  
+  description = ""  
 
 [[feature]]
   icon = "markdown"
   icon_pack = "fab"
   name = "LateX/Markdown"
-  description = "70%"
+  description = ""
 
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "bash"
-  description = "65%"  
+  description = ""  
 
 [[feature]]
   icon = "globe-europe"
   icon_pack = "fas"
   name = "ArcGIS"
-  description = "40%"
+  description = ""
 
 
 # Uncomment to use emoji icons.
