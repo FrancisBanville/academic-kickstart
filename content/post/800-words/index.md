@@ -3,10 +3,7 @@
 
 title: Digital intelligence to... Predict links between predators and prey
 subtitle: My research project in 800 words (IVADO)
-summary: Digital intelligence can be used to classify the full set of predation relationships within a biological community. Without it, such a task would be difficult if not inconceivable. Networks made up of predators and their prey are core elements in the operation and stability of every ecosystem, and can be reconstituted based on the total number of species present. But for what purpose? To better protect them.
-
-Click on this [link](https://ivado.ca/en/knowledge/predict-links-between-predators-and-prey/) to read the complete article on IVADO's website. Click [here](https://ivado.ca/connaissance/predire-les-liens-entre-predateurs-et-proies/) for the French version. 
-
+summary:
 authors:
 - F. Banville
 
@@ -36,3 +33,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+Digital intelligence can be used to classify the full set of predation relationships within a biological community. Without it, such a task would be difficult if not inconceivable. Networks made up of predators and their prey are core elements in the operation and stability of every ecosystem, and can be reconstituted based on the total number of species present. But for what purpose? To better protect them.
+
+Click on this [link](https://ivado.ca/en/knowledge/predict-links-between-predators-and-prey/) to read the complete article on IVADO's website. Click [here](https://ivado.ca/connaissance/predire-les-liens-entre-predateurs-et-proies/) for the French version.
