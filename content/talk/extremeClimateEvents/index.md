@@ -1,43 +1,36 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Predict species interactions in ecological networks"
-event: Digital October 2020 (IVADO)
-event_url: https://ivado.ca/evenements/octobre-numerique-ivado/
-location: virtual
+title: "ExtremeClimateEvents"
+event:
+event_url:
+location:
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: Under the very scarce data regime characterizing network ecology, predicting the emergent structure of ecological networks is an important task that would make the large-scale analysis of ecological networks accessible. In this talk, I will show how to predict the total number of interactions in food webs using a beta-binomial model. I will then show how to use this model and the principle of maximum entropy to predict other aspects of food-web structure, with a strong emphasis on the degree distribution. I will conclude my presentation with potential applications of this method, including the simulation of the impacts of climate change and habitat loss on the structure of ecological networks.
+summary:
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-10-29
-# date_end: 2020-11-02T16:42:53-05:00
-all_day: true
+date: 2020-11-02T17:08:21-05:00
+date_end: 2020-11-02T17:08:21-05:00
+all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-10-29
+publishDate: 2020-11-02T17:08:21-05:00
 
-authors:
-- F. Banville
-- T. Poisot
-- D. Gravel
-
-tags:
-- ecological networks
-- maximum Entropy
-- predictive modeling
+authors: []
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
