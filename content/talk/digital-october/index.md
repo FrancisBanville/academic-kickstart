@@ -32,6 +32,7 @@ tags:
 - ecological networks
 - maximum Entropy
 - predictive modeling
+- climate change
 
 # Is this a featured talk? (true/false)
 featured: false
