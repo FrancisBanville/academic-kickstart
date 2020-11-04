@@ -58,7 +58,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video:
+url_video: https://www.youtube.com/watch?v=vIQDgTy8Gks&ab_channel=IVADO
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
