@@ -48,9 +48,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: youtube
   icon_pack: fab
-  link: https://twitter.com/francisbanv
+  link: https://www.youtube.com/channel/UCZwgeAPVXkufGKgrNBHNJ4w
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/francis-banville-890a91192/
@@ -63,6 +63,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.fr/citations?user=jqagMewAAAAJ&hl=fr&oi=ao
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/francisbanv
 - icon: github
   icon_pack: fab
   link: https://github.com/FrancisBanville
